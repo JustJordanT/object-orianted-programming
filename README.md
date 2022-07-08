@@ -1,2 +1,1 @@
-# c-sharp-oop
-Using oop with C#
+# Object Oriented Programming with C#
